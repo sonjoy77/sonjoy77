@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sonjoy77
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning web designing
-- 💞️ I’m looking to collaborate on web sector
-- 📫 How to reach me https://www.facebook.com/sonjoydatta.sd
+- 💞️ I want to contribute in web sector
+- 📫 How to reach me ?  https://www.facebook.com/sonjoydatta.sd
 
 <!---
 sonjoy77/sonjoy77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
