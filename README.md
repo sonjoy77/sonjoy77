@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonjoy77
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning web designing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web sector
 - 📫 How to reach me https://www.facebook.com/sonjoydatta.sd
 
 <!---
